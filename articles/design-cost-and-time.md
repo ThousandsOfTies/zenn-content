@@ -3,7 +3,7 @@ title: "コストを、速さで見る"
 emoji: "🧭"
 type: "idea"
 topics: ["設計", "ソフトウェア設計"]
-published: true
+published: false
 ---
 
 「設計のよさを、何で測ればよいのか」

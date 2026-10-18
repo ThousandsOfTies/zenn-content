@@ -7,16 +7,16 @@
 | 章 | 原稿 | Zenn | 役割 |
 | --- | --- | --- | --- |
 | 1 | [どこまでやるかを決めるまでが設計](articles/design-change-locality.md) | [記事を読む](https://zenn.dev/thousandsofties/articles/design-change-locality) | 期待できる効果と投資から、今はやらない範囲も決める |
-| 2 | [コストを、速さで見る](articles/design-cost-and-time.md) | [記事を読む](https://zenn.dev/thousandsofties/articles/design-cost-and-time) | コストを、測って比較できる処理時間・作業時間で捉える |
+| 2 | [コストを、速さで見る](articles/design-cost-and-time.md) | 公開待ち | コストを、測って比較できる処理時間・作業時間で捉える |
 | 3 | [設計案は、捨てた理由まで比べる](articles/design-alternatives-and-weights.md) | [記事を読む](https://zenn.dev/thousandsofties/articles/design-alternatives-and-weights) | 同じ条件で案を比べ、重みと採否の理由を残す |
 
-まずは第1〜3章で一区切りとします。３記事の本文は確認済みで、Zennへの公開設定を有効にしています（`published: true`）。第4章以降は続編候補として素材を残しています。
+まずは第1〜3章で一区切りとします。３記事の本文は確認済みです。2026-10-18に第1・3章を公開しました。第2章はZennの投稿数上限により公開待ちです。第4章以降は続編候補として素材を残しています。
 
 - [制作TODOと続編候補](TODO.md)
 - [投稿前の確認メモ](投稿前メモ.md)
 - [別稿の素材：設計観の背景](drafts/design-thinking-background.md)
 
-原稿内の記事間リンクには、Zennの公開URLを使用しています。
+公開済みの記事へのリンクには、ZennのURLを使用しています。第2章への案内は、公開後にリンクへ戻します。
 
 ## プレビュー
 
