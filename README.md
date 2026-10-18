@@ -6,14 +6,15 @@
 
 | 章 | 原稿 | 役割 |
 | --- | --- | --- |
-| 1 | [設計とは何か：変更を局所化し、どこまでやるかを決める](articles/design-change-locality.md) | 期待できる効果と投資から、今はやらない範囲も決める |
-| 2 | [設計品質を、速さで見る](articles/taguchi-toc-design-view.md) | 速さを物差しにし、式で条件や見積もりを共有する |
+| 1 | [どこまでやるかを決めるまでが設計](articles/design-change-locality.md) | 期待できる効果と投資から、今はやらない範囲も決める |
+| 2 | [コストを、速さで見る](articles/taguchi-toc-design-view.md) | コストを、測って比較できる処理時間・作業時間で捉える |
 | 3 | [設計案は、捨てた理由まで比べる](articles/design-alternatives-and-weights.md) | 同じ条件で案を比べ、重みと採否の理由を残す |
 
-第1章は本文完成済み、第2・3章は初稿を作成済みです。全記事を `published: false` にしています。ZennとのGitHub連携や記事の公開は、ご本人の原稿確認後に進めます。
+まずは第1〜3章で一区切りとします。第1・2章は本文確認済み、第3章は初稿の確認待ちです。全記事を `published: false` にしています。第4章以降は続編候補として素材を残しています。
 
-- [全7章の制作TODO](TODO.md)
+- [制作TODOと続編候補](TODO.md)
 - [投稿前の確認メモ](投稿前メモ.md)
+- [別稿の素材：設計観の背景](drafts/design-thinking-background.md)
 
 原稿内の記事間リンクは、このリポジトリで読むための相対リンクです。公開時に実際のZenn記事URLへ置き換えます。
 
@@ -41,6 +42,7 @@ npm run new:article
 
 - `articles/`：記事のMarkdown原稿
 - `books/`：今後、本を作成する場合の原稿
+- `drafts/`：現在の3章には含めない、別稿用の素材
 - `TODO.md`：連載の章立てと制作状況
 - `投稿前メモ.md`：原稿の意図と公開前後に確認すること
 
