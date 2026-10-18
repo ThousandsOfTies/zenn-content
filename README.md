@@ -4,19 +4,19 @@
 
 ## 原稿
 
-| 章 | 原稿 | 役割 |
-| --- | --- | --- |
-| 1 | [どこまでやるかを決めるまでが設計](articles/design-change-locality.md) | 期待できる効果と投資から、今はやらない範囲も決める |
-| 2 | [コストを、速さで見る](articles/taguchi-toc-design-view.md) | コストを、測って比較できる処理時間・作業時間で捉える |
-| 3 | [設計案は、捨てた理由まで比べる](articles/design-alternatives-and-weights.md) | 同じ条件で案を比べ、重みと採否の理由を残す |
+| 章 | 原稿 | Zenn | 役割 |
+| --- | --- | --- | --- |
+| 1 | [どこまでやるかを決めるまでが設計](articles/design-change-locality.md) | [記事を読む](https://zenn.dev/thousandsofties/articles/design-change-locality) | 期待できる効果と投資から、今はやらない範囲も決める |
+| 2 | [コストを、速さで見る](articles/design-cost-and-time.md) | [記事を読む](https://zenn.dev/thousandsofties/articles/design-cost-and-time) | コストを、測って比較できる処理時間・作業時間で捉える |
+| 3 | [設計案は、捨てた理由まで比べる](articles/design-alternatives-and-weights.md) | [記事を読む](https://zenn.dev/thousandsofties/articles/design-alternatives-and-weights) | 同じ条件で案を比べ、重みと採否の理由を残す |
 
-まずは第1〜3章で一区切りとします。第1・2章は本文確認済み、第3章は初稿の確認待ちです。全記事を `published: false` にしています。第4章以降は続編候補として素材を残しています。
+まずは第1〜3章で一区切りとします。３記事の本文は確認済みで、Zennへの公開設定を有効にしています（`published: true`）。第4章以降は続編候補として素材を残しています。
 
 - [制作TODOと続編候補](TODO.md)
 - [投稿前の確認メモ](投稿前メモ.md)
 - [別稿の素材：設計観の背景](drafts/design-thinking-background.md)
 
-原稿内の記事間リンクは、このリポジトリで読むための相対リンクです。公開時に実際のZenn記事URLへ置き換えます。
+原稿内の記事間リンクには、Zennの公開URLを使用しています。
 
 ## プレビュー
 
