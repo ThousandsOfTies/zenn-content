@@ -10,7 +10,7 @@ published: true
 
 私もよく言われました。「しました」と答えるだけでは、その質は伝わりません。私は、どんな案を捨て、なぜ捨てたのかに、検討の質が表れると思っています。
 
-[第1章](https://zenn.dev/thousandsofties/articles/design-change-locality)で投資の範囲を考え、第2章「コストを、速さで見る」（公開待ち）で動かすとき・直すときの速さを物差しにしました。今回は、その物差しで案を比べ、採用と廃案の理由を残します。
+[第1章](https://zenn.dev/thousandsofties/articles/design-change-locality)で投資の範囲を考え、[第2章](https://zenn.dev/thousandsofties/articles/design-cost-and-time)で動かすとき・直すときの速さを物差しにしました。今回は、その物差しで案を比べ、採用と廃案の理由を残します。
 
 ## どこに時間がかかるかを比べる
 
